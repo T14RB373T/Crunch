@@ -59,7 +59,7 @@ echo $B.
 | |___|  _ <| |_| | |\  | |___|  _  |
  \____|_| \_ \___/|_| \_|\____|_| |_|";
 echo $R."\n===================================";
-echo $B."\nCode    : T14RB373T                ".$R.'+';
+echo $B."\nRecode  : T14RB373T                ".$R.'+';
 echo $B."\nTeam    : Infinity Cyber Team      ".$R.'+';
 echo $B."\nContact : tiar.betet25@gmail.com   ".$R.'+';
 echo $R."\n===================================".$G.$X."\n\n";
